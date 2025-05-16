@@ -1,0 +1,20 @@
+[
+  {
+    "action": "Recycling",
+    "date": "2025-01-08",
+    "points": 30,
+    "id": 1
+  },
+  {
+    "action": "Bike commute",
+    "date": "2025-01-09",
+    "points": 15,
+    "id": 2
+  },
+  {
+    "action": "Bike commute",
+    "date": "2025-01-09",
+    "points": 15,
+    "id": 3
+  }
+]
