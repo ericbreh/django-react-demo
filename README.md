@@ -13,7 +13,7 @@ Full-stack demo using a Django REST backend and a React frontend.
 
 ```bash
 cd backend
-python manage.py runserver        # http://localhost:8000
+python manage.py runserver
 ```
 
 Optionally run backend unit tests
@@ -26,5 +26,5 @@ python manage.py test
 ```bash
 cd frontend
 npm install
-npm run dev        # http://localhost:5173
+npm run dev
 ```
